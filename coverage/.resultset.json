@@ -53,14 +53,6 @@
         1,
         null
       ],
-      "/Users/gracekim/Desktop/67-373/lab5-choretracker-starter/app/models/chore.rb": [
-        1,
-        1,
-        1,
-        null,
-        1,
-        null
-      ],
       "/Users/gracekim/Desktop/67-373/lab5-choretracker-starter/app/models/task.rb": [
         1,
         1,
@@ -70,6 +62,21 @@
         1,
         null,
         3,
+        2,
+        null
+      ],
+      "/Users/gracekim/Desktop/67-373/lab5-choretracker-starter/app/models/chore.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        3,
+        2,
+        2,
+        2,
+        2,
         2,
         null
       ],
@@ -325,6 +332,6 @@
         0
       ]
     },
-    "timestamp": 1612572594
+    "timestamp": 1612573109
   }
 }
